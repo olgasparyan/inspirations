@@ -4,7 +4,7 @@ This is a short repository where I wanted to orgamizwe some helpful resources, i
 and projects that inspired me personally. All of these resources were created by women in science and industry (mostly tech-industry). These people inspire me every day, and maybe these resources can be helpful and inspiring for you too. The list is constantly updating. 
 
 
-## Political Economy/Comprative Politics/Economics
+## Political Economy/Comparative Politics/Economics
 1. Charnysh, Volha (2019) “Diversity, Institutions, and Economic Development: Post- WWII Displacement in Poland.” American Political Science Review, 113 (12): 423- 441 [Paper](http://charnysh.net/documents/Charnysh_APSR_Diversity.pdf)
 2. Dell, Melissa “The Persistent Effects of Peru's Mining Mita.” Econometrica 78, no. 6 (2010): 1863-1903 [Paper and Materials](https://scholar.harvard.edu/dell/publications/persistent-effects-perus-mining-mita)
 3. Ostrom Elinor (1990) Governing the Commons: The Evolution of Institutions for Collective Action (Political Economy of Institutions and Decisions), Cambridge University Press 

@@ -10,7 +10,7 @@ and projects that inspired me personally. All of these resources were created by
 3. Ostrom Elinor (1990) Governing the Commons: The Evolution of Institutions for Collective Action (Political Economy of Institutions and Decisions), Cambridge University Press 
 4. Piotrowska, Barbara (2020) The Price of Collaboration: How Authoritarian States Retain Control Comparative Political Studies 53(13):2091-2117 [Paper](https://journals.sagepub.com/doi/full/10.1177/0010414020912277)
 5. Slough, Tara. “Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia.” [Working paper](http://taraslough.com/assets/pdf/colombia_audit.pdf)
-6. Sun, Jessice. "The Wages of Repression" [Working paper](https://www.jessicasarasun.com/uploads/1/2/2/2/122254029/sun_wages.pdf)
+6. Sun, Jessica. "The Wages of Repression" [Working paper](https://www.jessicasarasun.com/uploads/1/2/2/2/122254029/sun_wages.pdf)
 
 
 ## Methods/Computational Social Science

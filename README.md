@@ -15,8 +15,8 @@ and projects that inspired me personally. All of these resources were created by
 
 ## Methods/Computational Social Science
 1. Rebecca Morton's work ([Book](https://www.cambridge.org/core/books/experimental-political-science-and-the-study-of-causality/2397505B914209DEFC855CA139259418))
-2. Molly Roberts' work (on censorship [(paper)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-censorship-in-china-allows-government-criticism-but-silences-collective-expression/C7EF4A9C9D59425C2D09D83742C1FE00) and on structural topic modeling (including [R package](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf))
-3. Jennifer Pan's work (on censorship [(paper)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-censorship-in-china-allows-government-criticism-but-silences-collective-expression/C7EF4A9C9D59425C2D09D83742C1FE00) and on deep learning applications - [paper](https://journals-sagepub-com.ezp.lib.rochester.edu/doi/full/10.1177/0081175019860244?utm_source=summon&utm_medium=discovery-provider) )
+2. Molly Roberts' work (on censorship ([paper](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-censorship-in-china-allows-government-criticism-but-silences-collective-expression/C7EF4A9C9D59425C2D09D83742C1FE00)) and on structural topic modeling (including [R package](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf))
+3. Jennifer Pan's work (on censorship )[paper](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-censorship-in-china-allows-government-criticism-but-silences-collective-expression/C7EF4A9C9D59425C2D09D83742C1FE00)) and on deep learning applications - [paper](https://journals-sagepub-com.ezp.lib.rochester.edu/doi/full/10.1177/0081175019860244?utm_source=summon&utm_medium=discovery-provider) )
 4. Torres, Michelle. Give me the full picture: Using computer vision to understand visual frames and political communication [Working paper](https://www.dropbox.com/s/o9hqecmhwnhcck2/MT_Polmeth_VisualFraming.pdf?dl=0)
 
 

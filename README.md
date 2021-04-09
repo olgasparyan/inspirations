@@ -30,6 +30,6 @@ Vol. 101, No. 2 (May, 2007), pp. 355-372 [Paper](https://www.jstor.org/stable/27
 
 ## Science and Non-Science Inspiration from outside of my field
 1. Jennifer Doudna and Emmanuelle Charpentier - Nobel Prize in Chemistry 2020 for developing CRISPR-Cas9 [Paper (one of many)](https://science.sciencemag.org/content/337/6096/816.long) 
-2. [Ladybug Podcast](https://www.ladybug.dev) - softaware engineering and developers podcast
+2. [Ladybug Podcast](https://www.ladybug.dev) - software engineering and developers podcast
 
 

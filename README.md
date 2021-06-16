@@ -1,6 +1,6 @@
 # Personal inspirations and recommendations
 
-This is a short repository where I want to list some helpful resources, including scientific research articles and books, postcasts (mostly about science or tech), and projects, that inspired me personally. All of these resources were created by women in science and industry. These people and their work inspire me every day, and maybe these resources can be helpful and inspiring for you too. The list is constantly updating. 
+This is a short repository where I want to list some helpful resources, including scientific research articles and books, postcasts (mostly about science or tech), and projects, that inspired me personally. All of these resources were created by women in science and industry. These people and their work inspire me every day, and maybe these resources can be helpful and inspiring for you too. The list is constantly being updated. 
 
 
 ## Political Economy/Comparative Politics/Economics
